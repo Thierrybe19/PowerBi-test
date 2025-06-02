@@ -1,0 +1,10 @@
+relationship 26a5b5fa-ed8c-4774-ad4d-4ef0805e31cb
+	joinOnDateBehavior: datePartOnly
+	fromColumn: financials.Date
+	toColumn: LocalDateTable_f26a3ab4-3e5c-46ea-8bcf-ee9aa8abe124.Date
+
+relationship 4c9ccfbe-53b7-4a93-b1c5-3efcb69444ed
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Sheet1.Date
+	toColumn: LocalDateTable_23a64e1f-655d-4662-b667-51768ddee7cd.Date
+
